@@ -1,6 +1,7 @@
 import telebot
 
-token = ' ' мой токен
+token = ' ' 
+//мой токен
 
 bot = telebot.TeleBot(token)
 
